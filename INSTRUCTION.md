@@ -19,3 +19,12 @@ From the project root directory run:
 
 ```bash
 docker-compose up --build
+```
+
+## docker-compose up --build
+### 2️⃣ Stop and remove containers
+
+To stop the running containers and remove them along with the default network, run:
+
+```bash
+docker-compose down
